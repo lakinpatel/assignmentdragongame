@@ -1,6 +1,12 @@
-F:\theDragon-master\theDragon\bin\theDragon.dll.config
-F:\theDragon-master\theDragon\bin\theDragon.dll
-F:\theDragon-master\theDragon\bin\theDragon.pdb
-F:\theDragon-master\theDragon\obj\Debug\theDragon.csprojResolveAssemblyReference.cache
-F:\theDragon-master\theDragon\obj\Debug\theDragon.dll
-F:\theDragon-master\theDragon\obj\Debug\theDragon.pdb
+E:\study\projects\397\theDragon-master\theDragon\bin\theDragon.dll.config
+E:\study\projects\397\theDragon-master\theDragon\bin\theDragon.dll
+E:\study\projects\397\theDragon-master\theDragon\bin\theDragon.pdb
+E:\study\projects\397\theDragon-master\theDragon\obj\Debug\theDragon.dll
+E:\study\projects\397\theDragon-master\theDragon\obj\Debug\theDragon.pdb
+E:\study\projects\397\theDragon-master\theDragon\obj\Debug\theDragon.csprojResolveAssemblyReference.cache
+F:\web game\theDragon-master\theDragon\bin\theDragon.dll.config
+F:\web game\theDragon-master\theDragon\bin\theDragon.dll
+F:\web game\theDragon-master\theDragon\bin\theDragon.pdb
+F:\web game\theDragon-master\theDragon\obj\Debug\theDragon.csprojResolveAssemblyReference.cache
+F:\web game\theDragon-master\theDragon\obj\Debug\theDragon.dll
+F:\web game\theDragon-master\theDragon\obj\Debug\theDragon.pdb
