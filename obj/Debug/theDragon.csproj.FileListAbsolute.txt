@@ -1,0 +1,6 @@
+F:\theDragon-master\theDragon\bin\theDragon.dll.config
+F:\theDragon-master\theDragon\bin\theDragon.dll
+F:\theDragon-master\theDragon\bin\theDragon.pdb
+F:\theDragon-master\theDragon\obj\Debug\theDragon.csprojResolveAssemblyReference.cache
+F:\theDragon-master\theDragon\obj\Debug\theDragon.dll
+F:\theDragon-master\theDragon\obj\Debug\theDragon.pdb
