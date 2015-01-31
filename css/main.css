@@ -65,6 +65,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', end
 /* styling for slide text area */
 .slide .slide-text {
         height: 450px;
+        color:chartreuse;
     }
 
 /* styling for menu section of each slide */
@@ -75,7 +76,7 @@ div.menu {
 }
 
 #intro {
-    background-image:url(../images/#);
+    background-image:url(../images/initial.jpg);
 
 }
 /****************   Node 2 : the caves   **************/
@@ -83,20 +84,20 @@ div.menu {
     background-image:url(../images/cave1.jpg);
 }
 #cave2 {
-    background-image:url(../images/cave_2.jpg);
+    background-image:url(../images/help.jpg);
 }
 /******************   End of Node 2 ****************/
 
 
 /****************    Node 3   *******************/
 #cave1-path1 {
-    background-image:url(../images/poseidon.jpg);
+    background-image:url(../images/forest.jpg);
 }
 #cave1-path2 {
-    background-image:url(../images/medusa.jpg);
+    background-image:url(../images/dragons.jpg);
 }
 #cave2-path1 {
-    background-image:url(../images/dark-green-forest.jpg);
+    background-image:url(../images/forest.jpg);
 }
 #cave2-path2 {
     background-image:url(../images/hard_rock.jpg);
@@ -107,10 +108,10 @@ div.menu {
 /********************    Node 4  *******************/
 
 #cave1-path1-node1 {
-    background-image:url(../images/poseidon_attack.jpg);
+    background-image:url(../images/creature_atk.jpg);
 }
 #cave1-path1-node2 {
-    background-image:url(../images/son_of_poseidon.jpg)
+    background-image:url(../images/ur_frend_betryed.jpg)
 }
 #cave1-path2-node1 {
     background-image:url(../images/medusa1.jpg)
@@ -120,16 +121,16 @@ div.menu {
 }
 
 #cave2-path1-node1 {
-    background-image:url(../images/animal_kills_u.jpg)
+    background-image:url(../images/dragons.jpg)
 }
 #cave2-path1-node2 {
-    background-image:url(../images/forest_lost.jpg)
+    background-image:url(../images/forest.png)
 }
 #cave2-path2-node1 {
-    background-image:url(../images/dragon_kills.jpg)
+    background-image:url(../images/dragons.jpg)
 }
 #cave2-path2-node2 {
-    background-image:url(../images/gold_treasure.jpg)
+    background-image:url(../images/final.jpg)
 }
 
 /********************    End of Node 4  *******************/
